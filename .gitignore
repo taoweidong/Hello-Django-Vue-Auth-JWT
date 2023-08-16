@@ -1,0 +1,6 @@
+/.idea
+/djangobackend/.idea
+/djangobackend/venv
+/djangobackend/apiapp/__pycache__/*.pyc
+/djangobackend/mainapp/__pycache__
+/djangobackend/apiapp/migrations/__pycache__/*.pyc
